@@ -1,0 +1,5 @@
+AuthType Basic   
+AuthName "Hello,Dixis!" 
+AuthUserFile  /var/www/api.evo73.ru/dixis/.htpasswd
+require valid-user
+
